@@ -1,0 +1,8 @@
+{
+"currencyName":"coins",
+"shopDescription":"Here are the items you can buy with /buy",
+"XP_Cooldown_MS":60000,
+"XP_MAX":100,
+"Allow_Bots_To_Gain_XP":true,
+"Daily_Amount":200
+}
